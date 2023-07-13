@@ -2,4 +2,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1{
+    color: rgb(219, 3, 93);
+    font-size: 30px;
+    padding-top: 20px; 
+}
+
+h1,p{
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: 600;
 }
